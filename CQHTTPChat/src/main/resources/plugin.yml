@@ -1,0 +1,7 @@
+name: CQHTTPChat
+version: ${project.version}
+main: top.zhzskin.cqhttpchat.CQHTTPChat
+api-version: 1.14
+authors: [zhz]
+description: Just a Chat Plugin
+website: zhzredstone.github.io
